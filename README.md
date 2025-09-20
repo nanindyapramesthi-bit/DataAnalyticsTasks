@@ -1,5 +1,6 @@
 # DataAnalyticsTasks
-This repository is my project from Data Analyst Study Independent Program x Kariermu 
+This repository is my project from Data Analyst Study Independent Program x Kariermu.
+
 Data for this project is available in this link below:
 # Dataset Customer and Laptop
 Link dataset customer: https://drive.google.com/file/d/1vOF-Pu5UI0ZsL-l3pLkZqEzauSaTmTfV/view?usp=drive_link
